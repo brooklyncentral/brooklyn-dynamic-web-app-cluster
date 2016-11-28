@@ -23,7 +23,6 @@ brooklyn.catalog:
   description: A cluster of web-apps, which can be dynamically re-sized; this does not include a load-balancer
   itemType: template
   license: Apache-2.0
-  iconUrl: https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg
   publish:
     license_code: Apache-2.0
     reference: reference.json
